@@ -1,0 +1,2 @@
+# react-fancy-component
+test
